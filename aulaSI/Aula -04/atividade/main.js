@@ -9,6 +9,7 @@ let Multiplicação = z1*z3;
 let Potencia = z1^z3;
 
 
+
 if(z2 == "Soma") {
     alert(`Resultado ${soma}`);
 }else if (z2 == "Divisão"){
@@ -24,5 +25,5 @@ if(z2 == "Soma") {
 }else if(z2 == 'Potencia'){
     alert(`Resultado ${Potencia}`);
 }else{
-    alert("Operação Invalida")
+    alert("Operação Invalida");
 }
